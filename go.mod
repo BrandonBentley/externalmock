@@ -1,3 +1,3 @@
-module github.com/brandonbentley/externalmock
+module github.com/BrandonBentley/externalmock
 
 go 1.14
